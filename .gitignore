@@ -1,0 +1,11 @@
+*.log
+profile.png
+resume.aux
+resume.bbl
+resume.bcf
+resume.blg
+resume.fdb_latexmk
+resume.fls
+resume.log
+resume.pdf
+resume.run.xml
